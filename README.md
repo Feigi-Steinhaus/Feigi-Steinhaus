@@ -78,9 +78,9 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" title="MySQL"/>
   </a>
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40" title="C++"/>
-  </a>
+  <a href="https://bitbucket.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="40" height="40"/>
+</a>
 </p>
 
 ---
@@ -88,6 +88,6 @@
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=feigi-steinhaus&show_icons=true&locale=en" alt="feigi-steinhaus" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=feigi-steinhaus&" alt="feigi-steinhaus" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feigysteinhaus&langs_count=10&layout=compact" alt="feigysteinhaus-most-used-languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feigi-steinhaus&langs_count=10&layout=compact" alt="feigi-steinhaus-most-used-languages" />
 </p>
 
