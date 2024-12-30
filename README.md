@@ -1,27 +1,23 @@
-<h1 align="center">Hi 👋, I'm Feigi </h1>
-<h3 align="center">A passionate Full Stack Developer with a focus on crafting responsive designs and seamless user experiences.</h3>
+<h1 align="center">Hi 👋, I'm Feigi Steinhaus</h1>
+<h3 align="center">A passionate Full Stack Developer with expertise in C# and Angular.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=faigysteinhaus&label=Profile%20views&color=0e75b6&style=flat" alt="faigysteinhaus" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Feigi-Steinhuas&label=Profile%20views&color=0e75b6&style=flat" alt="Feigi-Steinhuas" /> </p>
 
-- 🌱 I’m currently learning **open source contributions and advanced Angular techniques.**
+- 🔭 I’m currently working as a **Full Stack Developer** specializing in **C#** and **Angular**, focusing on **task management systems**.
 
-- 🔭 I’m currently working on **task management systems using Angular and .NET Core.**
+- 🌱 I’m also learning **advanced techniques in Angular**, exploring **different programming languages**, and contributing to **open source projects**.
 
-- 👯 I’m looking to collaborate on **innovative projects that improve user experience.**
+- 👯 I’m looking to collaborate on **innovative projects that improve user experience**.
 
-- 💬 Ask me about **Angular, .NET Core, and responsive design.**
+- 💬 Ask me about **C#, Angular, responsive design, full-stack development, and open source contributions**.
 
-- 📫 How to reach me: **faigysteinhaus@gmail.com**
+- 📫 How to reach me: **feigi7063@gmail.com**
 
 - ⚡ Fun fact: **I believe great design starts with understanding user needs.**
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/your-profile" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="faigy-linkedin" height="30" width="30" /></a>
-<a href="https://your-website.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1081/1081352.png" alt="faigy-website" height="30" width="30" /></a>
-</p>
+<p align="left">📫 You can contact me via email: <a href="mailto:feigi7063@gmail.com">feigi7063@gmail.com</a></p>
 
 ---
 
@@ -42,6 +38,7 @@
   <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
   </a>
+  <!-- Add more languages and tools here -->
 </p>
 
 ---
