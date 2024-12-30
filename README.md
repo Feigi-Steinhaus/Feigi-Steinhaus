@@ -85,6 +85,7 @@
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=feigi-steinhaus&show_icons=true&locale=en" alt="feigi-steinhaus" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=feigi-steinhaus&" alt="feigi-steinhaus" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feigi-steinhaus&langs_count=10&layout=compact" alt="feigi-steinhaus-most-used-languages" />
 </p>
 
