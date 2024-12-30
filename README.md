@@ -62,16 +62,14 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".net core" width="40" height="40"/>
   </a>
 </p>
-
-  <!-- Add more languages and tools here -->
 </p>
 
 ---
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=faigysteinhaus&show_icons=true&locale=en" alt="faigysteinhaus" />
+  <img src="https://github-readme-stats.vercel.app/api?username=feigi=steinhaus&show_icons=true&locale=en" alt="feigi=steinhaus" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faigysteinhaus&" alt="faigysteinhaus" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=feigi=steinhaus&" alt="feigi=steinhaus" />
 </p>
