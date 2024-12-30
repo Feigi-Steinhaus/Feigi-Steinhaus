@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on **innovative projects that improve user experience**.
 
-- 💬 Ask me about **C#, Angular, responsive design, full-stack development, and open source contributions**.
-
 ---
 
 <p align="left">📫 You can contact me via email: <a href="mailto:feigi7063@gmail.com">feigi7063@gmail.com</a></p>
