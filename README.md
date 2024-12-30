@@ -67,9 +67,9 @@
 ---
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=feigi=steinhaus&show_icons=true&locale=en" alt="feigi=steinhaus" />
+  <img src="https://github-readme-stats.vercel.app/api?username=feigi-steinhaus&show_icons=true&locale=en" alt="feigi-steinhaus" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=feigi=steinhaus&" alt="feigi=steinhaus" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=feigi-steinhaus&" alt="feigi-steinhaus" />
 </p>
